@@ -1,0 +1,34 @@
+/* theming */
+body {
+    background: #ded6be;
+}
+
+.container {
+    background: #F8E3B3;
+}
+
+.jumbotron {
+    background: #cbb38b;
+}
+
+.card-body {
+    background: #FFF5DF;
+}
+
+.btn-primary {
+    background: #8d6b38 !important;
+    border-color: #594c33 !important;
+}
+.btn-primary:hover {
+    background: #ad8446 !important;
+    border-color: #746344 !important;
+}
+.btn-primary:focus {
+    box-shadow: none !important;
+}
+
+/* spacing */
+h2 {
+    margin-top: 2rem;
+    text-align: center;
+}
